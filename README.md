@@ -166,9 +166,6 @@ The app runs on CPU by default. For GPU support, ensure CUDA-compatible TensorFl
 
 [Add your license here]
 
-## Authors
-
-[Add author information]
 
 ## Acknowledgments
 
