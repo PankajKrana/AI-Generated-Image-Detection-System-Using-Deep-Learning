@@ -2,6 +2,13 @@
 
 A deep learning application that distinguishes **AI-Generated** images from **Real** photographs using a convolutional neural network. Built with Streamlit for easy inference and complete documentation for reproducibility.
 
+<img width="486" height="523" alt="Screenshot 2025-11-21 at 3 27 30 PM" src="https://github.com/user-attachments/assets/aa77df04-a216-4319-b856-ba473ea335ad" />
+<img width="486" height="523" alt="Screenshot 2025-11-21 at 3 30 17 PM" src="https://github.com/user-attachments/assets/5d89f79a-f3e2-4266-a858-8714f3f447b8" />
+<img width="486" height="523" alt="Screenshot 2025-11-21 at 6 22 37 PM" src="https://github.com/user-attachments/assets/43f699b6-c140-45c2-93ed-118f546a1a9a" />
+
+<img width="486" height="523" alt="Screenshot 2025-11-21 at 3 28 57 PM" src="https://github.com/user-attachments/assets/1f306be6-a23d-45c5-8ca1-7d9393b2cab5" />
+
+
 ## Key Features
 
 - 🖼️ **Upload & Analyze**: Support for JPG/PNG images via intuitive web interface
@@ -96,8 +103,6 @@ uv sync
 # Start the Streamlit app
 uv run streamlit run main.py --server.runOnSave=false
 ```
-
-Access the app at: **http://localhost:8501**
 
 ### 3. Use the Application
 
